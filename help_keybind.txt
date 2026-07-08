@@ -1,0 +1,45 @@
+
+🎯 WezTerm Keyboard Shortcuts
+All shortcuts from your wezterm.lua configuration
+Pane Management (Split Panes)
+Ctrl + Shift + %
+Split window vertically (to the right) with 50% size
+
+Ctrl + Shift + "
+Split window horizontally (to the bottom) with 50% size
+
+Pane Navigation (Move Between Panes)
+Ctrl + Shift + ←
+Move to the left pane
+
+Ctrl + Shift + →
+Move to the right pane
+
+Ctrl + Shift + ↑
+Move to the top pane
+
+Ctrl + Shift + ↓
+Move to the bottom pane
+
+Resize Panes (Adjust Pane Sizes)
+Ctrl + Shift + Alt + ←
+Decrease pane width by 5 units
+
+Ctrl + Shift + Alt + →
+Increase pane width by 5 units
+
+Ctrl + Shift + Alt + ↑
+Increase pane height by 5 units
+
+Ctrl + Shift + Alt + ↓
+Decrease pane height by 5 units
+
+Session Management
+Ctrl + Shift + D
+Detach from current domain (close current session)
+
+Ctrl + Shift + S
+Show launcher with available domains
+
+Ctrl + Shift + K
+Kill WezTerm server completely
