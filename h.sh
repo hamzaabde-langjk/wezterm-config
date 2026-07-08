@@ -8,5 +8,5 @@ if [ "$1" = "hm" ]; then
 	  WEZTERM_MODE="TITLE" wezterm &
   else 
 	  echo "user fld change bar size"
-    #killall -q wezterm
+    
 fi
