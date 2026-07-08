@@ -1,0 +1,4 @@
+alias wezterm='wezterm'
+alias hm='~/h.sh hm'
+alias hmz='~/h.sh hmz'
+those alias when you run hm or hmz cummand line in terminal the wallpaper will change like the config and the window_dicoration  be title or resize 
