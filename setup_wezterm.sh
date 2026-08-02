@@ -38,9 +38,9 @@ mv h.sh ~/
 chmod +x ~/h.sh
 
 # Add to rc files
-cat zhrc.txt >> ~/.bashrc
-cat zhrc.txt >> ~/.zshrc
-[ -f ~/.zhrc ] && cat zhrc.txt >> ~/.zhrc
+cat zhc.txt >> ~/.bashrc
+cat zhc.txt >> ~/.zshrc
+[ -f ~/.zhrc ] && cat zhc.txt >> ~/.zhrc
 
 echo -e "${GREEN}✓ Setup complete!${NC}"
 echo -e "xdotool version: $(xdotool --version)"
